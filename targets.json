@@ -1,4 +1,18 @@
 {
+    "catalyst": {
+        "name": "CatalystESC",
+        "rx_2400": {
+            "evb": {
+                "product_name": "Catalyst ELRS EVB",
+                "lua_name": "Catalyst EVB",
+                "layout_file": "Catalyst ELRS EVB.json",
+                "upload_methods": ["uart", "wifi"],
+                "min_version": "3.5.0",
+                "platform": "esp32-c3",
+                "firmware": "Unified_ESP32C3_2400_RX"
+            }
+        }
+    },
     "anyleaf": {
         "name": "AnyLeaf",
         "rx_2400": {
