@@ -17,5 +17,10 @@
 
     "led": 21,
 
+    "vbat": 3,
+    "vbat_atten": 7,
+    "vbat_scale": 909,
+    "vbat_offset": 0,
+
     "pwm_outputs": [20, 4, 19, 18]
 }
