@@ -3,7 +3,7 @@
     "radio_miso": 6,
     "radio_mosi": 7,
     "radio_nss": 2,
-    "radio_rst": 0,
+    "radio_rst": 9,
     "radio_sck": 5,
     "radio_busy": 10,
 
